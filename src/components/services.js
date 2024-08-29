@@ -8,42 +8,42 @@ const data = [
         id: 1,
         icon: 'fas fa-rocket',
         title: 'STARTUPS',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis, vel! Accusantium hic fugiat laudantiu earum consequuntur, unde nam et mollitia eaque incidunt sed.',
+        description: 'Startups are innovative, often tech-driven companies focused on rapid growth, disrupting industries, and solving problems with unique solutions.',
         link: 'https://www.google.com'
     },
     {
         id: 2,
         icon: 'fas fa-book',
         title: 'RESEARCHES',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis, vel! Accusantium hic fugiat laudantiu earum consequuntur, unde nam et mollitia eaque incidunt sed.',
+        description: 'Researches involve systematic investigations to discover new information, test hypotheses, and advance knowledge across various fields, driving innovation and progress.',
         link: 'https://www.google.com'
     },
     {
         id: 3,
         icon: 'fas fa-lightbulb',
         title: 'INNOVATIONS',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis, vel! Accusantium hic fugiat laudantiu earum consequuntur, unde nam et mollitia eaque incidunt sed.',
+        description: 'Innovations drive progress by introducing novel ideas, technologies, or methods, transforming industries, enhancing efficiency, and improving quality of life globally.',
         link: 'https://www.google.com'
     },
     {
         id: 4,
         icon: 'fas fa-certificate',
         title: 'PATENTS',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis, vel! Accusantium hic fugiat laudantiu earum consequuntur, unde nam et mollitia eaque incidunt sed.',
+        description: 'An innovative system and method for real-time, adaptive user interfaces that dynamically customize experiences based on user behavior and preferences.',
         link: 'https://www.google.com'
     },
     {
         id: 5,
         icon: 'fas fa-box',
         title: 'INVENTORY',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis, vel! Accusantium hic fugiat laudantiu earum consequuntur, unde nam et mollitia eaque incidunt sed.',
+        description: 'Effective inventory management involves tracking levels, optimizing storage, and ensuring timely replenishment to meet demand.',
         link: 'https://www.google.com'
     },
     {
         id: 6,
         icon: 'fas fa-plus-circle',
         title: 'ADD MORE',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis, vel! Accusantium hic fugiat laudantiu earum consequuntur, unde nam et mollitia eaque incidunt sed.',
+        description: 'Expanding your ideas can be achieved by brainstorming, considering different perspectives, asking questions, and exploring related topics for deeper insights.',
         link: 'https://www.google.com'
     }
 ]
@@ -53,7 +53,7 @@ function AppServices() {
         <section id="services" className="block services-block">
             <Container fluid>
                 <div className="title-holder">
-                    <h2>Our services</h2>
+                    <h2><strong style={{color: '#f64b4b', fontSize: '40px'}}>Our services</strong></h2>
                     <div className="subtitle">services we provide</div>
                 </div>
                 <Row xs={1} md={3} className="g-4">

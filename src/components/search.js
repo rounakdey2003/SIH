@@ -4,7 +4,7 @@ import InputGroup from 'react-bootstrap/InputGroup';
 function AppSearch() {
     return (
         <div className="d-flex justify-content-center">
-            <InputGroup className="mb-3" style={{marginRight: '5%', width: '250px'}}>
+            <InputGroup className="mb-3" style={{marginRight: '0%', width: '300px'}}>
                 <Form.Control
                     placeholder="Search"
                     aria-describedby="basic-addon2"
