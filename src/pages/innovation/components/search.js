@@ -4,9 +4,9 @@ import InputGroup from 'react-bootstrap/InputGroup';
 function AppSearch() {
     return (
         <div className="d-flex justify-content-center">
-            <InputGroup className="mb-3" style={{marginRight: '0%', width: '300px'}}>
+            <InputGroup className="mb-3" style={{width:'85%'}}>
                 <Form.Control
-                    placeholder="Search"
+                    placeholder="Browse any Topic, Title or Keywords ..."
                     aria-describedby="basic-addon2"
                 />
                 <InputGroup.Text id="basic-addon2">🔍</InputGroup.Text>

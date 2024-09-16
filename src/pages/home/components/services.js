@@ -9,42 +9,42 @@ const data = [
         icon: 'fas fa-rocket',
         title: 'STARTUPS',
         description: 'Startups are innovative, often tech-driven companies focused on rapid growth, disrupting industries, and solving problems with unique solutions.',
-        link: 'https://www.google.com'
+        link: '/startup'
     },
     {
         id: 2,
         icon: 'fas fa-book',
         title: 'RESEARCHES',
         description: 'Researches involve systematic investigations to discover new information, test hypotheses, and advance knowledge across various fields, driving innovation and progress.',
-        link: 'https://www.google.com'
+        link: '/research'
     },
     {
         id: 3,
         icon: 'fas fa-lightbulb',
         title: 'INNOVATIONS',
         description: 'Innovations drive progress by introducing novel ideas, technologies, or methods, transforming industries, enhancing efficiency, and improving quality of life globally.',
-        link: 'https://www.google.com'
+        link: '/innovation'
     },
     {
         id: 4,
         icon: 'fas fa-certificate',
         title: 'PATENTS',
         description: 'An innovative system and method for real-time, adaptive user interfaces that dynamically customize experiences based on user behavior and preferences.',
-        link: 'https://www.google.com'
+        link: '/patent'
     },
     {
         id: 5,
         icon: 'fas fa-box',
-        title: 'INVENTORY',
+        title: 'ARCHIVE',
         description: 'Effective inventory management involves tracking levels, optimizing storage, and ensuring timely replenishment to meet demand.',
-        link: 'https://www.google.com'
+        link: ''
     },
     {
         id: 6,
         icon: 'fas fa-plus-circle',
         title: 'ADD MORE',
         description: 'Expanding your ideas can be achieved by brainstorming, considering different perspectives, asking questions, and exploring related topics for deeper insights.',
-        link: 'https://www.google.com'
+        link: ''
     }
 ]
 
